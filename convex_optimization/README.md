@@ -1,8 +1,8 @@
 # Convex Optimization (Theory & Exercise)
 
-**What I did**: Implements theory to code
+**What i did** : Understanding theory, solving exercises, implementing
 
-**Purpose**: For elaborating knowledge and improving programming ability
+**Purpose** : build basis for future academic work
 
 **Contents**:
 - [theory_exercise/](./theory_exercise/) — theory, exercises (handwritten solutions), log
