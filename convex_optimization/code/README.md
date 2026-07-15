@@ -1,4 +1,4 @@
-# Convex Optimizatio
+# Convex Optimization
 
 **What I did**: Implements theory to code
 
