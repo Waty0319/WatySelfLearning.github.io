@@ -1,4 +1,4 @@
-#Pattern Recognition and Machine Learning
+# Pattern Recognition and Machine Learning
 
 **What I did**: Implements theory to code
 
