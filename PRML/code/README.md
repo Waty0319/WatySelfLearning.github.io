@@ -1,8 +1,8 @@
-what i did : Implements theory to code\n
+What i did : Implements theory to code
 
-purpose : For elaborating knowledge and improving programming ability
+Purpose : For elaborating knowledge and improving programming ability
 
-contents : 
+Contents : 
 code
 annotation
 log (troubleshot and breakthrough)
