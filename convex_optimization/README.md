@@ -2,7 +2,7 @@
 
 **What i did** : Understanding theory, solving exercises, implementing
 
-**Purpose** : build basis for future academic work
+**Purpose** : Build basis for future academic work
 
 **Contents**:
 - [theory_exercise/](./theory_exercise/) — theory, exercises (handwritten solutions), log
