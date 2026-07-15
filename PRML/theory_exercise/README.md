@@ -1,4 +1,4 @@
-# Theory & Exercises (Pattern Recognition and Machine Learning)
+# Pattern Recognition and Machine Learning (Theory & Exercise)
 
 **What I did**: Understanding theory in my own words, both logical and intuitive manner
 
