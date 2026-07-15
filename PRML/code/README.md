@@ -1,4 +1,4 @@
-# Convex Optimization
+# Pattern Recognition and Machine Learning
 
 **What I did**: Implements theory to code
 
