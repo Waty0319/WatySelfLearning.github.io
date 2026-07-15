@@ -5,6 +5,6 @@
 **Purpose**: For elaborating knowledge and improving programming ability
 
 **Contents**:
-- implementatioe
+- implementation
 - annotated
 - troubleshooting/breakthrough log
