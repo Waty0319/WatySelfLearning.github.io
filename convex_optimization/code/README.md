@@ -5,5 +5,6 @@
 **Purpose**: For elaborating knowledge and improving programming ability
 
 **Contents**:
-- [theory_exercise/](./theory_exercise/) — theory, exercises (handwritten solutions), log
-- [code/](./code/) — implementation, annotated, troubleshooting/breakthrough log
+- implementatioe
+- annotated
+- troubleshooting/breakthrough log
