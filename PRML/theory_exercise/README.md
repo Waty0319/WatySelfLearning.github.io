@@ -1,5 +1,10 @@
-What i did : Understanding theory in my own word both logical and intuitive manner
+# Theory & Exercises
 
+**What I did**: Understanding theory in my own words, both logical and intuitive manner
 
+**Purpose**: Intuition for recognition, logic for application
 
-Contents : 
+**Contents**:
+- explanation paper
+- exercise handwriting solution
+- log
