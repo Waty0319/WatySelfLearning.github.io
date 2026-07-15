@@ -1,4 +1,4 @@
-# Convex optimization  (Theory & Exercise)
+# Convex Optimization  (Theory & Exercise)
 
 **What I did**: Understanding theory in my own words, both logical and intuitive manner
 
